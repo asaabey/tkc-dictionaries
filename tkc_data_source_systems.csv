@@ -1,0 +1,25 @@
+name,description,rman_code
+Acacia Dialysis Extract,Manually provisioned Dialysis Procedures from Acacia supplied during transition period to Acacia,50
+Ampilatwatja,Ampilatwatja,51
+Anyinginyi,Anyinginyi Health Services,32
+CARESYS,Data from the data warehouse view of CARESYS,11
+Congress (Amoonguna),Congress (Amoonguna),38
+Congress (Areyonga),Congress (Areyonga),42
+Congress (Mutitjulu),Congress (Mutitjulu),41
+Congress (Santa Teresa),Congress (Santa Teresa),39
+Congress (Urban),Congress (Urban),37
+DoH,DoH EDW AGG datawarehouse platfrom,90
+East Arnhem Communicare System (NTG),East Arnhem Communicare System (NTG),22
+Katherine West Health Board,Katherine West Health Board,35
+LABTRAK,Pathology results as recorded in DoH Datawarehouse,12
+Laynhapuy,Laynhapuy,33
+Malala,Malala,52
+Miwatj,Miwatj Health Services,34
+NT Cardiac,NT Cardiac,54
+PCIS,Data from the data warehouse view of PCIS,21
+Pintupi,Pintupi,53
+Purple House,Purple House: Western Desert Nganampa Walytja Palyantjaku Tjutaku,15
+Sunrise Health Service,Sunrise Health Service Aboriginal Corporation,60
+TKC,TKC Application,99
+TKC Opt Out Register,TKC manange list of patient demographics and HRNS who have opted out of participation.,98
+Wurli,Wurli,36
